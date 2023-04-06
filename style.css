@@ -1,0 +1,31 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+a:link, a:visited {
+    background-color: lightgray;
+    color: black;
+    padding: 7px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: lightgray;
+  }
+
+.collapseBtn{
+    width: 250px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
